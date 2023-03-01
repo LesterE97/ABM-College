@@ -1,14 +1,26 @@
+
 using System;
 
-class Program 
+public class HelloWorld
 {
-  static void Main(string[] args) 
-  
-  {
-    double radius = 10;
+    public static void Main(string[] args)
+    {
+        //Console.WriteLine ("Hello Mono World");
+        
+        double areaOfCicle=AreaOfaCircle(10);
+        double answer=CircumfrenceOfaCircle(10);
+        Console.WriteLine (areaOfCicle);
+        Console.WriteLine (answer);
+    }
     
-    double area = Math.PI * radius * radius;
-    
-    Console.WriteLine("Area of circle {0} is {1}", radius, area);
-  }
+    public static double CircumfrenceOfaCircle(double radius){
+        double answer=0;
+        answer= 2* Math.PI *radius;
+        return answer;
+    }
+     public static double AreaOfaCircle(double radius){
+     double area = Math.PI * radius * radius;
+   // Console.WriteLine("Area of circle {0} is {1}", radius, area);
+     return area;
+     }
 }
