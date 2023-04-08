@@ -1,0 +1,11 @@
+C:\Users\evang\source\repos\customerdata\customerdata\bin\Debug\customerdata.exe.config
+C:\Users\evang\source\repos\customerdata\customerdata\bin\Debug\customerdata.exe
+C:\Users\evang\source\repos\customerdata\customerdata\bin\Debug\customerdata.pdb
+C:\Users\evang\source\repos\customerdata\customerdata\obj\Debug\customerdata.csproj.AssemblyReference.cache
+C:\Users\evang\source\repos\customerdata\customerdata\obj\Debug\customerdata.csproj.SuggestedBindingRedirects.cache
+C:\Users\evang\source\repos\customerdata\customerdata\obj\Debug\customerdata.Form1.resources
+C:\Users\evang\source\repos\customerdata\customerdata\obj\Debug\customerdata.Properties.Resources.resources
+C:\Users\evang\source\repos\customerdata\customerdata\obj\Debug\customerdata.csproj.GenerateResource.cache
+C:\Users\evang\source\repos\customerdata\customerdata\obj\Debug\customerdata.csproj.CoreCompileInputs.cache
+C:\Users\evang\source\repos\customerdata\customerdata\obj\Debug\customerdata.exe
+C:\Users\evang\source\repos\customerdata\customerdata\obj\Debug\customerdata.pdb

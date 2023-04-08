@@ -1,0 +1,19 @@
+C:\Users\evang\source\repos\loginform1\loginform1\bin\Debug\loginform1.exe.config
+C:\Users\evang\source\repos\loginform1\loginform1\bin\Debug\loginform1.exe
+C:\Users\evang\source\repos\loginform1\loginform1\bin\Debug\loginform1.pdb
+C:\Users\evang\source\repos\loginform1\loginform1\obj\Debug\loginform1.csproj.AssemblyReference.cache
+C:\Users\evang\source\repos\loginform1\loginform1\obj\Debug\loginform1.csproj.SuggestedBindingRedirects.cache
+C:\Users\evang\source\repos\loginform1\loginform1\obj\Debug\loginform1.Form1.resources
+C:\Users\evang\source\repos\loginform1\loginform1\obj\Debug\loginform1.Properties.Resources.resources
+C:\Users\evang\source\repos\loginform1\loginform1\obj\Debug\loginform1.csproj.GenerateResource.cache
+C:\Users\evang\source\repos\loginform1\loginform1\obj\Debug\loginform1.csproj.CoreCompileInputs.cache
+C:\Users\evang\source\repos\loginform1\loginform1\obj\Debug\loginform1.exe
+C:\Users\evang\source\repos\loginform1\loginform1\obj\Debug\loginform1.pdb
+C:\Users\evang\Desktop\framework test\loginform\loginform1\obj\Debug\loginform1.csproj.AssemblyReference.cache
+C:\Users\evang\Desktop\framework test\loginform\loginform1\obj\Debug\loginform1.csproj.SuggestedBindingRedirects.cache
+C:\Users\evang\Desktop\framework test\loginform\loginform1\obj\Debug\loginform1.Form1.resources
+C:\Users\evang\Desktop\framework test\loginform\loginform1\obj\Debug\loginform1.Properties.Resources.resources
+C:\Users\evang\Desktop\framework test\loginform\loginform1\obj\Debug\loginform1.csproj.GenerateResource.cache
+C:\Users\evang\Desktop\framework test\loginform\loginform1\obj\Debug\loginform1.csproj.CoreCompileInputs.cache
+C:\Users\evang\Desktop\framework test\loginform\loginform1\obj\Debug\loginform1.exe
+C:\Users\evang\Desktop\framework test\loginform\loginform1\obj\Debug\loginform1.pdb
